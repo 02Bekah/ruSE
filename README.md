@@ -1,2 +1,2 @@
 # ruSE
-Hub for SE students projects
+Project for the 2022 spring semester
